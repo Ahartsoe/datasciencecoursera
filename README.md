@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Coursera data science course
+This repo contains Coursera data science course work.
